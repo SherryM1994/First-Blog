@@ -51,7 +51,7 @@
     <published>2020-10-03T06:36:21.000Z</published>
     <updated>2020-10-03T06:36:21.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>由于最近在自学爬虫，发现最好用的还是<strong>正则表达式</strong>，所以决定写一篇关于正则表达式的学习笔记，此篇笔记仅针对<strong>Python3.0+</strong>和<strong>Windows10</strong>系统。毕竟好记性不如烂笔头，学完不写下来，过后就会忘得一干二净。</em></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>由于最近在自学爬虫，发现最好用的还是<strong>正则表达式</strong>，所以决定写一篇关于正则表达式的学习笔记，此篇笔记仅针对<strong>Python3.0+</strong>和<strong>Windows10</strong>系统。</em></p><hr><p>留坑下次填。。。</p>]]></content>
     
     <summary type="html">
     
